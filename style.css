@@ -1,0 +1,13 @@
+
+body {
+    background-color: black;
+      color: white;
+}    
+
+button {
+    border: 2px solid white !important;
+}
+
+.st {
+    margin-top: 20px;
+}
